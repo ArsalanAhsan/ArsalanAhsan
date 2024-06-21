@@ -8,13 +8,11 @@
 - 💬 We can have a chat about **#Technology, #Engineering, #DistributedSystems, #EventDrivenProgramming, #IndustryBestPractices, #Optimizations, #CareerGoals, #WhatInspiresYou**, and much more!
 - ⚡ Fun fact: In my free time, I enjoy reading personal development articles, sharing my ideas, and talking about **#WhatInspiresMe✨**
 
-- 👨‍💻 You can find my projects here [https://github.com/ArsalanAhsan](https://github.com/ArsalanAhsan)
-- 💬 Ask me about **Java, Python, Spring, Springboot, SQL, Microservices, Docker, REST APIs, ...**
-- 📫 How to reach me **https://www.linkedin.com/in/arsalan-ahsan-9b9b3b146/**
+- 📫 How to reach me **https://www.linkedin.com/in/arsalan-ahsan26/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/arsalan-ahsan-9b9b3b146/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arsalan-ahsan-9b9b3b146" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arsalan-ahsan26/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arsalan-ahsan26" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
