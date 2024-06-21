@@ -1,7 +1,7 @@
 ### Hi, I'm Arsalan Ahsan 👋
 <h3 align="center">Software Engineer 👩‍💻</h3>
 
-💫 **About Me:**
+💫 ## About Me:
 - 🏫 I'm currently pursuing my Master's in Computer Science from Philips University of Marburg.
 - 🤝 I'm looking to collaborate on exciting and impactful projects or product ideas that involve cutting-edge technologies.
 - 🌱 I'm learning about Germany's professional culture as well as learning the German language.
