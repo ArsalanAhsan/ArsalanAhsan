@@ -1,5 +1,5 @@
 ### Hi, I'm Arsalan Ahsan 👋
-<h3 align="center">Software Engineer 👩‍💻</h3>
+<h2 align="center">Software Engineer 👩‍💻</h2>
 
 ## 💫 About Me:
 - 🏫 I'm currently pursuing my Master's in Computer Science from Philips University of Marburg.
