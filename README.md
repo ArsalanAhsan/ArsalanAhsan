@@ -1,13 +1,17 @@
-
 ### Hi, I'm Arsalan Ahsan 👋
 <h3 align="center">Software Engineer 👩‍💻</h3>
 
- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="500" height="320" />
+
+💫 **About Me:**
+- 🏫 I'm currently pursuing my Master's in Computer Science from Philips University of Marburg.
+- 🤝 I'm looking to collaborate on exciting and impactful projects or product ideas that involve cutting-edge technologies.
+- 🌱 I'm learning about Germany's professional culture as well as learning the German language.
+- 💬 We can have a chat about **#Technology, #Engineering, #DistributedSystems, #EventDrivenProgramming, #IndustryBestPractices, #Optimizations, #CareerGoals, #WhatInspiresYou**, and much more!
+- ⚡ Fun fact: In my free time, I enjoy reading personal development articles, sharing my ideas, and talking about **#WhatInspiresMe✨**
 
 - 👨‍💻 You can find my projects here [https://github.com/ArsalanAhsan](https://github.com/ArsalanAhsan)
-
 - 💬 Ask me about **Java, Python, Spring, Springboot, SQL, Microservices, Docker, REST APIs, ...**
-
 - 📫 How to reach me **https://www.linkedin.com/in/arsalan-ahsan-9b9b3b146/**
 
 <h3 align="left">Connect with me:</h3>
